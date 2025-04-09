@@ -20,6 +20,9 @@ Tired of juggling 10+ tabs to hunt for jobs? **YAGAAMI** scrapes, filters, and d
 | **💾 Save Jobs** | Bookmark jobs and apply later in bulk. |
 | **📊 Off-Campus Focus** | Curated for students and professionals hunting for **off-campus opportunities**. |
 
+
+![image](https://github.com/user-attachments/assets/721440e6-a090-49a9-98a4-5ba708ead27a)
+
 ---
 
 ## 🔥 **Upcoming Features (Coming Soon!)**
@@ -40,7 +43,10 @@ Tired of juggling 10+ tabs to hunt for jobs? **YAGAAMI** scrapes, filters, and d
 2. **Browse** – See aggregated listings in a clean UI.  
 3. **Save/Apply** – Bookmark or apply directly.  
 
-*(Screenshots/GIFs can be added here later for visual demo.)*  
+
+![image](https://github.com/user-attachments/assets/846f5e03-ed34-46e3-8dbc-f4008ddb1305)
+
+  
 
 ---
 
