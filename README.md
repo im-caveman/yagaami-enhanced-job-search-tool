@@ -3,7 +3,6 @@
   <h3><i>Your Personal Job Search Aggregator</i></h3>
   <p>Find your next opportunity across <b>LinkedIn, Indeed, Glassdoor, and 1000s of career pages</b> — all in one place!</p>
   <img src="https://img.shields.io/badge/Version-Beta-blue?style=flat" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat" alt="PRs Welcome">
 </div>
 
